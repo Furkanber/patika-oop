@@ -9,4 +9,4 @@
 
 ------
 
-<image src="https://github.com/Furkanber/patika-oop/blob/main/patika-class/Class_Diagram.png" width="800">
+<image src="https://github.com/Furkanber/patika-oop/blob/main/patika-class-diagram/Class_Diagram.png" width="800">
